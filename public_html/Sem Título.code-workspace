@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../simple-web-page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "simple-web-page"
+	}
+}
